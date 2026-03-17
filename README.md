@@ -5,7 +5,5 @@ Fanmade patch to fix the audio bug &amp; remove smoothing shaders from the 2026 
 
 
 Credits:
-
 (DLL Hooking Library)
-
 MinHook by TsudaKageyu -> https://github.com/TsudaKageyu/minhook/releases
